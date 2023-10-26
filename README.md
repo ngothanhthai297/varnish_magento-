@@ -13,9 +13,6 @@
       copy text from default.vcl to file etc/varnish/default.vcl
   </li>
   <li>
-      copy text from default.vcl to file etc/varnish/default.vcl
-  </li>
-  <li>
      change port default apache2 (Listen 8080)
      sudo nano /etc/apache2/ports.conf
   </li>
